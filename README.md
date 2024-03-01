@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
+  
 </div>
 <h1 align="center">👋,Hello there! I'm Mr. Tint Wai, a passionate full-stack developer hailing from the beautiful city of Yangon, Myanmar.</h1>
 <h3 align="center">A full stack developer from Yangon , Myanmar</h3>
