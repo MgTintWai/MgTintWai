@@ -1,14 +1,4 @@
-### Hi there 👋
-
-<!--
-**MgTintWai/MgTintWai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Saurabh</a></h1>
 <h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
 
@@ -75,8 +65,3 @@ Saurabh</a></h1>
 Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
 
 Last Edited on: 08/08/2022
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
