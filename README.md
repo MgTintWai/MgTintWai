@@ -13,7 +13,7 @@ Full-Stack Developer | PHP, Laravel, Vue.js | 7+ years building scalable web app
 
 <div align="center">
 
-**Backend:** PHP (Laravel), Node.js, REST APIs, MySQL, PostgreSQL, SQLite, AJAX  
+**Backend:** PHP (Laravel), REST APIs, MySQL, PostgreSQL, SQLite, AJAX  
 **Frontend:** Vue.js, React, HTML5, CSS3, JavaScript, jQuery, Tailwind, Bootstrap, WordPress  
 **Cloud & Deployment:** AWS, DigitalOcean, Docker  
 **Tools & Workflow:** Git, Postman, Insomnia, Figma, Jira, CI/CD, Agile  
