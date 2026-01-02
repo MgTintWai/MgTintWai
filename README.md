@@ -50,7 +50,7 @@ Full-Stack Developer | PHP, Laravel, Vue.js | 7+ years building real-world web a
 <h2 align="center">📫 Let’s Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mr-tint-wai-83117022b/" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/tint-wai-83117022b/" target="_blank">LinkedIn</a> •
   <a href="https://github.com/tint-wai" target="_blank">GitHub</a> •
   <a href="mailto:tintwai544@gmail.com">Email</a>
 </p>
