@@ -33,28 +33,6 @@ Full-Stack Developer | PHP, Laravel, Vue.js | 7+ years building scalable web app
 
 <hr>
 
-<h2 align="center">🚀 Projects</h2>
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Task Manager](https://github.com/tint-wai/task-manager) | Full-stack task manager with React + Tailwind, supports CRUD & task completion toggle | React, Tailwind, Node.js |
-| [E-Commerce API](https://github.com/tint-wai/ecommerce-api) | Laravel REST API for an online shop with JWT authentication & admin panel | Laravel, PHP, MySQL |
-| [Portfolio Website](https://github.com/tint-wai/portfolio) | Personal portfolio showcasing projects & skills | HTML, CSS, JS, Figma |
-
----
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tint-wai&show_icons=true&hide_border=true&theme=radical" alt="Tint Wai's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tint-wai&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 <h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
