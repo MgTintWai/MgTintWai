@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Tint Wai</h1>
 <h3 align="center">
-Full-Stack Developer | PHP, Laravel, Vue.js | 4+ years building scalable web applications
+Full-Stack Developer | PHP, Laravel, Vue.js | 7+ years building scalable web applications
 </h3>
 <p align="center">
 🚀 I craft seamless web experiences, optimize backend workflows, and deliver clean, maintainable code.  
