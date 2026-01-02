@@ -13,23 +13,10 @@ Full-Stack Developer | PHP, Laravel, Vue.js | 7+ years building scalable web app
 
 <div align="center">
 
-**Backend:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35" title="PHP"/> PHP |  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="35" title="Laravel"/> Laravel |  
-Node.js | REST APIs | PostgreSQL | MySQL | SQLite | AJAX  
-
-**Frontend:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" title="HTML5"/> HTML5 |  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35" title="CSS3"/> CSS3 |  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" title="JavaScript"/> JavaScript |  
-Vue.js | React | WordPress | jQuery | Bootstrap | Tailwind  
-
-**Cloud & Deployment:**  
-AWS | Digital Ocean | Docker | CI/CD  
-
-**Tools & Workflow:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" title="Git"/> Git |  
-Postman | Insomnia | Jira | Figma | Agile  
+**Backend:** PHP (Laravel), Node.js, REST APIs, MySQL, PostgreSQL, SQLite, AJAX  
+**Frontend:** Vue.js, React, HTML5, CSS3, JavaScript, jQuery, Tailwind, Bootstrap, WordPress  
+**Cloud & Deployment:** AWS, DigitalOcean, Docker  
+**Tools & Workflow:** Git, Postman, Insomnia, Figma, Jira, CI/CD, Agile  
 
 </div>
 
@@ -39,11 +26,11 @@ Postman | Insomnia | Jira | Figma | Agile
 
 <ul>
 <li>✅ 7+ years experience building **scalable, production-ready web applications**</li>
-<li>✅ Designed and implemented **10+ REST APIs** with authentication, role-based access, and efficient database queries</li>
+<li>✅ Designed and implemented **10+ REST APIs** with authentication, role-based access, and optimized queries</li>
 <li>✅ Optimized legacy Laravel applications, **improving performance by 30–40%**</li>
 <li>✅ Migrated monolithic applications to **modular and maintainable architecture** using Laravel & Vue.js</li>
 <li>✅ Led code reviews, **mentored junior developers**, and enforced best practices across teams</li>
-<li>✅ Integrated modern tools such as **Docker, CI/CD pipelines, AWS, and Agile workflows** into projects</li>
+<li>✅ Integrated modern tools such as **Docker, AWS, DigitalOcean, CI/CD pipelines, and Agile workflows**</li>
 </ul>
 
 ---
