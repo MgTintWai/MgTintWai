@@ -4,34 +4,47 @@ Full-Stack Developer | PHP, Laravel, Vue.js | 7+ years building scalable web app
 </h3>
 <p align="center">
 🚀 I craft seamless web experiences, optimize backend workflows, and deliver clean, maintainable code.  
-🌏 Based in Yangon, Myanmar | Always learning the latest in web technologies
+🌏 Based in Yangon, Myanmar | Passionate about solving complex problems with modern web technologies
 </p>
 
-<hr>
+---
 
-<h2 align="center">💻 Technical Skills</h2>
+<h2 align="center">💻 Tech Expertise</h2>
 
 <div align="center">
 
-**Languages:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> HTML5  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" width="40"/> CSS3  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/> JavaScript  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40"/> PHP  
-
-**Frameworks / CMS:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40"/> Laravel  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain-wordmark.svg" width="40"/> Vue.js  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" width="40"/> WordPress  
-
-**Tools & Databases:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> MySQL  
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> Figma  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" width="40"/> Git  
+**Backend:** PHP (Laravel), Node.js, REST APIs, MySQL  
+**Frontend:** Vue.js, HTML5, CSS3, JavaScript, Tailwind  
+**Tools & Others:** Git, Docker, Linux, Figma, CI/CD, Agile  
 
 </div>
 
-<hr>
+---
+
+<h2 align="center">🏆 Key Achievements</h2>
+
+<ul>
+<li>✅ 7+ years experience building **scalable, production-ready web applications**</li>
+<li>✅ Designed and implemented **10+ REST APIs** with authentication, role-based access, and efficient database queries</li>
+<li>✅ Optimized legacy Laravel applications, **improving performance by 30–40%**</li>
+<li>✅ Migrated monolithic applications to **modular and maintainable architecture** using Laravel & Vue.js</li>
+<li>✅ Led code reviews, **mentored junior developers**, and enforced best practices across teams</li>
+<li>✅ Integrated modern tools such as **Docker, CI/CD pipelines, and Agile workflows** into projects</li>
+</ul>
+
+---
+
+<h2 align="center">💡 Professional Summary</h2>
+
+<ul>
+<li>Expert in **end-to-end full-stack development**, delivering high-quality applications from backend to frontend</li>
+<li>Skilled in **database design, query optimization, and backend architecture** for high-traffic applications</li>
+<li>Collaborates closely with designers and stakeholders to ensure **user-friendly and performant interfaces**</li>
+<li>Strong focus on **code quality, testing, and maintainability** for long-term project success</li>
+<li>Continually learning and adapting to **emerging web technologies** and best practices</li>
+</ul>
+
+---
 
 <h2 align="center">📫 Contact Me</h2>
 
