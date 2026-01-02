@@ -4,7 +4,7 @@ Full-Stack Developer | PHP, Laravel, Vue.js | 7+ years building scalable web app
 </h3>
 <p align="center">
 🚀 I craft seamless web experiences, optimize backend workflows, and deliver clean, maintainable code.  
-🌏 Based in Yangon, Myanmar | Passionate about solving complex problems with modern web technologies
+🌏 Currently based in **Vietnam** | Passionate about solving complex problems with modern web technologies
 </p>
 
 ---
