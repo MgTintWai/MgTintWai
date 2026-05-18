@@ -16,19 +16,19 @@ Based in Vietnam • Open to Remote & International Opportunities
 
 ## About Me
 
-I'm a full-stack engineer with strong experience building scalable backend systems, REST APIs, and modern web applications using Laravel, Node.js, React.js, and Vue.js.
+I'm a full-stack engineer focused on backend architecture, scalable APIs, and modern web application development.
 
-I enjoy designing maintainable architectures, optimizing system performance, and working on production-ready applications that solve real business problems.
+I have experience designing and maintaining production systems using Laravel, Node.js, React.js, Vue.js, MySQL, MongoDB, Docker, Digital Ocean and AWS infrastructure.
 
-My background includes:
+My experience includes:
 
-* Enterprise systems
-* E-commerce platforms
-* Microservices architecture
+* Enterprise platforms
+* E-commerce systems
+* REST API architecture
+* Microservices-based applications
 * Real-time systems
-* Cloud & Docker deployments
-* API integrations
-* Database optimization
+* Cloud deployment workflows
+* Database optimization and performance tuning
 
 ---
 
@@ -44,6 +44,7 @@ My background includes:
 * GraphQL
 * RabbitMQ
 * WebSocket
+* JWT Authentication
 
 ### Frontend
 
@@ -88,30 +89,42 @@ My background includes:
 
 ### DNI E-Commerce Platform
 
-* Designed microservices architecture for scalable product and order workflows
+* Designed microservices architecture for scalable product, inventory, and order management workflows
 * Built REST APIs using Node.js, Express.js, and Laravel
-* Implemented RabbitMQ for asynchronous processing
+* Implemented RabbitMQ for asynchronous processing and service communication
 * Integrated React.js frontend modules with backend services
 * Optimized MySQL and MongoDB queries for high-volume transactions
-* Managed Docker-based deployment workflows
+* Managed Docker-based deployment workflows and cloud infrastructure
 
 ### Enterprise Management Systems
 
 * Developed scalable backend services and APIs for enterprise applications
-* Improved API performance and database efficiency
-* Collaborated across frontend, backend, and DevOps teams
-* Worked with cloud infrastructure and production deployments
+* Improved API performance through query optimization and caching strategies
+* Collaborated across frontend, backend, and DevOps teams in agile environments
+* Worked with production deployments, monitoring, and system maintenance
 
 ---
 
-## What I Focus On
+## Core Focus Areas
 
 * Scalable backend architecture
+* REST API development
+* Full-stack web applications
+* Database optimization
+* Cloud & Docker deployments
+* Microservices architecture
+* Performance optimization
 * Clean and maintainable code
+
+---
+## Current Interests
+
+* Distributed systems
+* System scalability
+* Cloud infrastructure
 * API performance optimization
-* Full-stack application development
-* Cloud deployment workflows
-* Team collaboration and agile development
+* Modern full-stack architecture
+* DevOps workflows
 
 ---
 
