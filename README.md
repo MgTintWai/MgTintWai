@@ -1,56 +1,122 @@
-<h1 align="center">👋 Hey there, I'm Tint Wai</h1>
+<h1 align="center">Tint Wai</h1>
+
 <h3 align="center">
-Full-Stack Developer | PHP, Laravel, Node.js, Vue.js, React.js | 7+ years building real-world web applications
+Senior Full-Stack Engineer | Node.js • Laravel • React.js • Vue.js • Microservices
 </h3>
+
 <p align="center">
-🚀 I love building web apps that are fast, easy to maintain, and enjoyable to use.  
-🌏 Currently based in **Vietnam** | Always tinkering with Laravel, Vue.js, React.js and exploring new tools in the cloud
+Building scalable web applications, APIs, and cloud-based systems with 7+ years of experience across enterprise and e-commerce platforms.
+</p>
+
+<p align="center">
+Based in Vietnam • Open to Remote & International Opportunities
 </p>
 
 ---
 
-<h2 align="center">💻 My Tech Stack</h2>
+## About Me
 
-<div align="center">
+I'm a full-stack engineer with strong experience building scalable backend systems, REST APIs, and modern web applications using Laravel, Node.js, React.js, and Vue.js.
 
-**Backend:** PHP (Laravel), Node.js, REST APIs, MySQL, PostgreSQL, SQLite, AJAX  
-**Frontend:** Vue.js, React.js, HTML5, CSS3, JavaScript, jQuery, Tailwind, Bootstrap, WordPress  
-**Cloud & Deployment:** AWS, DigitalOcean, Docker  
-**Tools & Workflow:** Git, Postman, Insomnia, Figma, Jira, CI/CD, Agile  
+I enjoy designing maintainable architectures, optimizing system performance, and working on production-ready applications that solve real business problems.
 
-</div>
+My background includes:
 
----
-
-<h2 align="center">🏆 Some Highlights</h2>
-
-<ul>
-<li>✅ 7+ years building **production-ready web apps** for clients and personal projects</li>
-<li>✅ Developed a **multi-vendor e-commerce API** in Laravel with JWT authentication and optimized database queries</li>
-<li>✅ Created a **custom task management dashboard** using React.js and Tailwind to improve team productivity</li>
-<li>✅ Migrated old monolithic PHP applications to **modular, maintainable architecture**</li>
-<li>✅ Led code reviews, mentored junior developers, and shared best practices across teams</li>
-<li>✅ Hands-on experience with **Docker, AWS, DigitalOcean**, and CI/CD pipelines for smooth deployments</li>
-</ul>
+* Enterprise systems
+* E-commerce platforms
+* Microservices architecture
+* Real-time systems
+* Cloud & Docker deployments
+* API integrations
+* Database optimization
 
 ---
 
-<h2 align="center">💡 How I Work</h2>
+## Tech Stack
 
-<ul>
-<li>I focus on writing **clean, maintainable code** that’s easy to update and scale</li>
-<li>Strong skills in **database design, query optimization, and backend architecture** for high-traffic apps</li>
-<li>I collaborate closely with designers and stakeholders to ensure **interfaces are intuitive and fast**</li>
-<li>Regularly use tools like **Postman, Insomnia, Jira, and Git** to streamline development</li>
-<li>Always learning new frameworks, cloud technologies, and ways to make applications better</li>
-</ul>
+### Backend
+
+* PHP
+* Laravel
+* Node.js
+* Express.js
+* REST APIs
+* GraphQL
+* RabbitMQ
+* WebSocket
+
+### Frontend
+
+* React.js
+* Vue.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* TailwindCSS
+* Bootstrap
+* jQuery
+
+### Databases
+
+* MySQL
+* PostgreSQL
+* MongoDB
+* Redis
+* SQLite
+
+### DevOps & Cloud
+
+* Docker
+* AWS
+* DigitalOcean
+* Nginx
+* CI/CD
+
+### Tools
+
+* Git
+* GitHub
+* GitLab
+* Jira
+* Postman
+* Insomnia
+* Agile/Scrum
 
 ---
 
-<h2 align="center">📫 Let’s Connect</h2>
+## Featured Experience
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tint-wai-83117022b/" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/tint-wai" target="_blank">GitHub</a> •
-  <a href="mailto:tintwai544@gmail.com">Email</a>
-</p>
+### DNI E-Commerce Platform
+
+* Designed microservices architecture for scalable product and order workflows
+* Built REST APIs using Node.js, Express.js, and Laravel
+* Implemented RabbitMQ for asynchronous processing
+* Integrated React.js frontend modules with backend services
+* Optimized MySQL and MongoDB queries for high-volume transactions
+* Managed Docker-based deployment workflows
+
+### Enterprise Management Systems
+
+* Developed scalable backend services and APIs for enterprise applications
+* Improved API performance and database efficiency
+* Collaborated across frontend, backend, and DevOps teams
+* Worked with cloud infrastructure and production deployments
+
+---
+
+## What I Focus On
+
+* Scalable backend architecture
+* Clean and maintainable code
+* API performance optimization
+* Full-stack application development
+* Cloud deployment workflows
+* Team collaboration and agile development
+
+---
+
+## Connect With Me
+
+* LinkedIn: linkedin.com/in/tint-wai-83117022b/
+* GitHub: github.com/MgTintWai
+* Email: [tintwai544@gmail.com](mailto:tintwai544@gmail.com)
