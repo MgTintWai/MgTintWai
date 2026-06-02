@@ -1,38 +1,28 @@
 <h1 align="center">Tint Wai</h1>
 
 <h3 align="center">
-Senior Backend Developer | Full-Stack Engineer
+Senior Full Stack Developer | PHP, Laravel, Node.js & Cloud Solutions
 </h3>
 
 <p align="center">
-Building scalable web applications, APIs, and cloud-based systems with 7+ years of experience across enterprise and e-commerce platforms.
+7+ years of experience building scalable web applications, RESTful APIs, real-time systems, and cloud-based solutions.
 </p>
 
 <p align="center">
-Based in Vietnam • Open to Remote & International Opportunities
+Vietnam • Open to Remote & International Opportunities
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a full-stack engineer focused on backend architecture, scalable APIs, and modern web application development.
+I'm a Senior Full Stack Developer with over 7 years of professional experience delivering enterprise applications, gaming platforms, e-commerce solutions, and business management systems.
 
-I have experience designing and maintaining production systems using Laravel, Node.js, React.js, Vue.js, MySQL, MongoDB, Docker, Digital Ocean and AWS infrastructure.
-
-My experience includes:
-
-* Enterprise platforms
-* E-commerce systems
-* REST API architecture
-* Microservices-based applications
-* Real-time systems
-* Cloud deployment workflows
-* Database optimization and performance tuning
+My expertise spans backend architecture, API development, real-time communication systems, database optimization, and cloud deployments. I enjoy solving complex technical challenges and building reliable, maintainable software that scales with business growth.
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 ### Backend
 
@@ -40,22 +30,21 @@ My experience includes:
 * Laravel
 * Node.js
 * Express.js
-* REST APIs
-* GraphQL
-* RabbitMQ
-* WebSocket
+* RESTful APIs
+* Socket.io
 * JWT Authentication
+* OAuth
 
 ### Frontend
 
+* Vue.js (Vue 2 & Vue 3)
 * React.js
-* Vue.js
-* JavaScript (ES6+)
+* JavaScript
+* TypeScript
 * HTML5
 * CSS3
-* TailwindCSS
+* Tailwind CSS
 * Bootstrap
-* jQuery
 
 ### Databases
 
@@ -63,7 +52,6 @@ My experience includes:
 * PostgreSQL
 * MongoDB
 * Redis
-* SQLite
 
 ### DevOps & Cloud
 
@@ -71,65 +59,81 @@ My experience includes:
 * AWS
 * DigitalOcean
 * Nginx
+* Apache
 * CI/CD
 
-### Tools
+### Tools & Practices
 
 * Git
 * GitHub
 * GitLab
 * Jira
 * Postman
-* Insomnia
-* Agile/Scrum
+* Agile / Scrum
+* Linux (Ubuntu)
 
 ---
 
-## Featured Experience
+## 💼 Professional Experience Highlights
 
-### DNI E-Commerce Platform
+### 🎮 AK Gaming Platform
 
-* Designed microservices architecture for scalable product, inventory, and order management workflows
-* Built REST APIs using Node.js, Express.js, and Laravel
-* Implemented RabbitMQ for asynchronous processing and service communication
-* Integrated React.js frontend modules with backend services
-* Optimized MySQL and MongoDB queries for high-volume transactions
-* Managed Docker-based deployment workflows and cloud infrastructure
+* Developed and maintained backend services supporting gaming operations and real-time communication.
+* Built Socket.io servers to enable live data synchronization between frontend and backend systems.
+* Implemented Redis caching strategies to improve application responsiveness and reduce database load.
+* Designed and optimized RESTful APIs using Laravel and Node.js.
+* Improved PostgreSQL query performance and overall system scalability.
 
-### Enterprise Management Systems
+### 🛒 E-Commerce Platforms
 
-* Developed scalable backend services and APIs for enterprise applications
-* Improved API performance through query optimization and caching strategies
-* Collaborated across frontend, backend, and DevOps teams in agile environments
-* Worked with production deployments, monitoring, and system maintenance
+* Developed scalable APIs and backend services for product, order, and payment workflows.
+* Integrated third-party payment and service providers.
+* Optimized application performance through database tuning and caching strategies.
+* Collaborated closely with frontend and DevOps teams in Agile environments.
 
----
+### 🏢 Enterprise Business Systems
 
-## Core Focus Areas
-
-* Scalable backend architecture
-* REST API development
-* Full-stack web applications
-* Database optimization
-* Cloud & Docker deployments
-* Microservices architecture
-* Performance optimization
-* Clean and maintainable code
-
----
-## Current Interests
-
-* Distributed systems
-* System scalability
-* Cloud infrastructure
-* API performance optimization
-* Modern full-stack architecture
-* DevOps workflows
+* Built and maintained enterprise applications for operational management and reporting.
+* Designed secure authentication and authorization systems.
+* Integrated external APIs and business-critical services.
+* Participated in system architecture discussions, code reviews, and production deployments.
 
 ---
 
-## Connect With Me
+## 🎯 Core Expertise
 
-* LinkedIn: linkedin.com/in/tint-wai-83117022b/
+* Backend Architecture
+* Laravel Development
+* Node.js Development
+* REST API Design
+* Real-Time Applications
+* Database Optimization
+* System Integration
+* Cloud Infrastructure
+* Docker & Deployment
+* Performance Optimization
+* Full Stack Development
+
+---
+
+## 📚 Current Focus
+
+* System Design
+* Scalable Architectures
+* Cloud Technologies
+* Distributed Systems
+* Software Architecture
+* Technical Leadership
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: linkedin.com/in/tint-wai-83117022b
+* Portfolio: tintwai-portfolio.lovable.app
 * GitHub: github.com/MgTintWai
 * Email: [tintwai544@gmail.com](mailto:tintwai544@gmail.com)
+
+---
+
+⭐ Passionate about building scalable software, solving complex problems, and continuously learning new technologies.
