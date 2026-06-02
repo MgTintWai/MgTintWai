@@ -8,10 +8,6 @@ Senior Full Stack Developer | PHP, Laravel, Node.js & Cloud Solutions
 7+ years of experience building scalable web applications, RESTful APIs, real-time systems, and cloud-based solutions.
 </p>
 
-<p align="center">
-Vietnam • Open to Remote & International Opportunities
-</p>
-
 ---
 
 ## 👨‍💻 About Me
