@@ -1,7 +1,7 @@
 <h1 align="center">Tint Wai</h1>
 
 <h3 align="center">
-Senior Full-Stack Engineer | Node.js • Laravel • React.js • Vue.js • Microservices
+Senior Backend Developer | Full-Stack Engineer
 </h3>
 
 <p align="center">
